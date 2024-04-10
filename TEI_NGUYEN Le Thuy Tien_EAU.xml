@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en"
+   xmlns:s="http://purl.oclc.org/dsdl/schematron">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eau</title>
+            <author>Étudiants de Université PSL</author>
+            <respStmt>
+               <resp>Presenté par</resp>
+               <name>Concours Photo Poésie 2023, Université Paris PSL</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Édition pour évaluation de XML-TEI.
+               <date when="2024-01">Janvier 2024</date>. </edition>
+            <respStmt>
+               <resp>Transcription et encodage par</resp>
+               <persName>Nguyen Le Thuy Tien</persName>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Édition encodée pour devoirs du master TNAH de l'École nationale des chartes.</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2024-01">Janvier 2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>EAU</title>
+                  <imprint>
+                     <publisher>Université Paris PSL</publisher>
+                     <pubPlace>Paris</pubPlace>
+                     <date>2023</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>  
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>poésie</item>
+                  <item>eau</item>
+                  <item>nature</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="poem1">
+            <head>La Mère</head>
+            <lg>
+               <l>Le poète s'observe en voyant passer l'eau.</l>
+               <l>Non pas qu'il s'admire car il se sait si laid</l>
+               <l>Mais c'est parce qu'il se sent si seul et si sot</l>
+               <l>Que des perles ruissellent lorsqu'il sort du ruisseau.</l>
+            </lg>
+            <lg>
+               <l>Sous ses yeux coule la vie, abyssale inertie.</l>
+               <l>Il sait qu'on le méprend, l'angoisse le saisit :</l>
+               <l>"Maudits soient ces aveugles ! Ces muets ! Mes amis !"</l>
+               <l>Cette nuit, tempête aidant, il sortit de son lit.</l>
+            </lg>
+            <lg>
+               <l>Qui a fait cette époque, qui a fait ce temps ?</l>
+               <l>Rapidement il se noie, son souffle est sautant,</l>
+               <l>Quand soudain une chaleur, un joyeux souvenir,</l>
+            </lg>
+            <lg>
+               <l>De vacances d'enfance, de famille, de sourires.</l>
+               <l>Mon frère d'âme, qui est si bas, qui est si fier,</l>
+               <l>Retrouve le calme plongé dans les bras de sa mère.</l>
+            </lg>
+            <note>Baptiste GUYOMARD</note>
+         </div>
+         <div type="poem" xml:id="poem2">
+            <head>larmes</head>
+            <lg>
+               <l>les larmes des abeilles sont du nectar,</l>
+               <l>les larmes des fleurs sont du parfum,</l>
+               <l>les larmes des oiseaux, sont</l>
+               <l>des chants fugaces et mélodieux,</l>
+            </lg>
+            <lg>
+               <l>les larmes de la rivière sont</l>
+               <l>des ondulations apparemment paisibles,</l>
+               <l>les larmes des nuages sont les</l>
+               <l>gouttes de pluie qui désemplissent un chagrin,</l>
+            </lg>
+            <lg>
+               <l>les larmes de nature sont la</l>
+               <l>douceur qui nous fait sourire,</l>
+               <l>les larmes que nous versons</l>
+               <l>feront-elles une fleur fraîche ?</l>
+            </lg>
+            <note>Le Thuy Tien NGUYEN</note>
+         </div>
+         <div type="poem" xml:id="poem3">
+            <head>La flaque d'eau oubliée</head>
+            <lg>
+               <l>Au bord du chemin,</l>
+               <l>délaissée par les miens,</l>
+               <l>lentement je meurs,</l>
+               <l>des funérailles sans fleurs.</l>
+            </lg>
+            <lg>
+               <l>Des promeneurs passent,</l>
+               <l>Ils ne me voient pas,</l>
+               <l>je deviens lasse,</l>
+               <l>je vais mourir là.</l>
+            </lg>
+            <lg>
+               <l>De petites bottes bleues,</l>
+               <l>le rire d'un enfant,</l>
+               <l>on me saute dedans,</l>
+               <l>je suis aux cieux.</l>
+            </lg>
+            <lg>
+               <l>Ô d'être une flaque,</l>
+               <l>en pleine forêt,</l>
+               <l>je ne suis pas un lac,</l>
+               <l>on ne me voit jamais.</l>
+            </lg>
+            <lg>
+               <l>Élevé aux nues</l>
+               <l>par un rire cristallin,</l>
+               <l>je serais parvenu</l>
+               <l>à oublier mon chagrin.</l>
+            </lg>
+            <note>Mathieu GIRARD</note>
+         </div>
+      </body>
+   </text>
+</TEI>
