@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+   COMMENTAIRES
+   Sujet intéressant, malheureusement de nombreuses consignes du devoir ne sont pas remplies.
+   L'absence de documentation, de règles de validation et un encodage assez léger ne
+   me permettent pas d'augmenter la note pour le devoir.
+-->
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en"
    xmlns:s="http://purl.oclc.org/dsdl/schematron">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Eau</title>
-            <author>Étudiants de Université PSL</author>
+            <author>Étudiants de l'Université PSL</author>
             <respStmt>
-               <resp>Presenté par</resp>
+               <resp>Présenté par</resp>
                <name>Concours Photo Poésie 2023, Université Paris PSL</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>Édition pour évaluation de XML-TEI.
-               <date when="2024-01">Janvier 2024</date>. </edition>
+               <date when="2024-01">Janvier 2024</date>.</edition>
             <respStmt>
                <resp>Transcription et encodage par</resp>
                <persName>Nguyen Le Thuy Tien</persName>
